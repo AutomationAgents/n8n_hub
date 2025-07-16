@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [
     react(),
   tailwindcss(), ],
-  base: "/"
+  base: "/n8n_hub"
   
 })
 
